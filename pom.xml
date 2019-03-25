@@ -43,11 +43,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupid>org.hibernate</groupid>
-			<artifactid>hibernate-entitymanager</artifactid>
-			<version>4.1.4.Final</version>
-		</dependency>
 	</dependencies>
 
 	<build>
